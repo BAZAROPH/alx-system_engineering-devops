@@ -1,0 +1,1 @@
+#!/bin/bash\n$u="$USER"\n echo $u"
